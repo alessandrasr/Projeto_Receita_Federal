@@ -10,7 +10,11 @@ Funcionalidades
 Descrição
 
 ✔️ Chrome em modo depuração	Abre o navegador já autenticado com seu perfil.
+
 ✔️ Detecção & clique no hCaptcha	Tenta resolver o checkbox inicial duas vezes antes de aguardar intervenção manual.
+
 ✔️ Leitura inteligente de Excel	Formata CPF com 11 dígitos, converte datas ao padrão exigido pelo site.
+
 ✔️ Registro de resultados	Gera Resultados_receita.xlsx pronto para colar na planilha ANALISAR.
+
 ✔️ Tratamento de erros	Mensagens claras no console e retomada automática da consulta linha a linha.
