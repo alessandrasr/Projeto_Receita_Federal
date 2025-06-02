@@ -6,7 +6,9 @@ Automação em **Python + Selenium** que lê uma lista de CPFs (+ data de nascim
 ---
 
 Funcionalidades
+
 Descrição
+
 ✔️ Chrome em modo depuração	Abre o navegador já autenticado com seu perfil.
 ✔️ Detecção & clique no hCaptcha	Tenta resolver o checkbox inicial duas vezes antes de aguardar intervenção manual.
 ✔️ Leitura inteligente de Excel	Formata CPF com 11 dígitos, converte datas ao padrão exigido pelo site.
