@@ -15,6 +15,6 @@ Descrição
 
 ✔️ Leitura inteligente de Excel	Formata CPF com 11 dígitos, converte datas ao padrão exigido pelo site.
 
-✔️ Registro de resultados	Gera Resultados_receita.xlsx pronto para colar na planilha ANALISAR.
+✔️ Registro de resultados	Gera Resultados_receita.xlsx pronto para ANALISAR.
 
 ✔️ Tratamento de erros	Mensagens claras no console e retomada automática da consulta linha a linha.
